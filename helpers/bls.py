@@ -31,8 +31,8 @@ class BLS:
         self.headers = {
             'Content-type': 'application/json'
             }
-        # self.api_key = api_key
-        self.api_key = 'cb0055340ae345fd92fa9a6954d4f6b0'
+        self.api_key = api_key
+        
         self.api_url = {
             'base_url' : 'https://api.bls.gov/publicAPI/v2/',
             'endpoints' : {
