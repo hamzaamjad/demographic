@@ -2,6 +2,7 @@
 """API client implementations."""
 
 from datetime import datetime
+import warnings
 
 from .web import SessionManager
 
@@ -11,6 +12,10 @@ from .web import SessionManager
 # -- Exceptions ---------------------------------------------------------------------------
 class BLSError(Exception):
     """Raised when BLS API client runs into an error."""
+    pass
+
+class BLSWarning(Warning):
+    """Warning raised when BLS API client encounters non-critical issues."""
     pass
 
 # -- BLS ----------------------------------------------------------------------------------
@@ -51,7 +56,7 @@ class BLS:
             Registered Users can request up to 20 years per query
             Unregistered users may request up to 10 years per query
         """
-        self.start_year = str(int(datetime.strftime(datetime.now(),"%Y")) - 10 if api_key == '' else 20)
+        self.start_year = str(int(datetime.strftime(datetime.now(),"%Y")) - (9 if api_key == '' else 19))
         self.end_year = str(int(datetime.strftime(datetime.now(),"%Y")))
 
     def generate_laus(self, fips_state):
@@ -112,14 +117,30 @@ class BLS:
         
         return(response)
 
-    def get_series(self, series_list : list, start_year = None, end_year = None):
-        """Retrieve values from multiple series.
+    def get_series(
+            self, 
+            series_list : list, 
+            start_year = None, 
+            end_year = None,
+            catalog : bool = False,
+            calculations : bool = False,
+            annual_average: bool = False,
+            aspects : bool = False,
+            all_optional_params : bool = False,
+            return_raw_response : bool = False
+            ):
+        """Retrieve values from multiple series. Note that a BLS registration key is required to retreive optional parameters.
         
         Args:
-            series_list -- list of series IDs
-            start_year -- start year for data pull, defaults to ten years in the past
-            end_year -- end year for data pull, defaults to today's year
-            
+            series_list -- Required. List of series IDs
+            start_year -- Required. Start year for data pull, defaults to ten years in the past
+            end_year -- Required. End year for data pull, defaults to today's year
+            catalog -- Optional.
+            calculations -- Optional.
+            annual_average -- Optional.
+            aspects -- Optional.
+            all_optional_params -- Optional. Sets all other optional parameters to True
+            return_raw_response -- Optional. Returns the raw response without any handling.
         Raises:
             Not configured at this time.
         """
@@ -134,18 +155,28 @@ class BLS:
         if end_year is None:
             end_year = self.end_year
         else:
-            start_year = str(end_year)
+            end_year = str(end_year)
+
+        if all_optional_params:
+            if self.api_key != '': 
+                catalog = calculations = annual_average = aspects = True
+
+        if self.api_key == '':
+            catalog = calculations = annual_average = aspects = False
+            warnings.warn("Optional parameters disabled - API key required", BLSWarning)
         
         data = {
             "seriesid": series_list,
             "startyear": start_year,
             "endyear": end_year,
-            "catalog": False,
-            "calculations" : False,
-            "annualaverage" : False,
-            "aspects": False,
+            "catalog": catalog,
+            "calculations" : calculations,
+            "annualaverage" : annual_average,
+            "aspects": aspects,
             "registrationkey" : self.api_key
             }
+        
+        print(data)
 
         request_url = f"{self.api_url['base_url']}{self.api_url['endpoints']['timeseries'][0]}"
         
@@ -154,6 +185,9 @@ class BLS:
             json=data,
             headers=self.headers
         )
+
+        if return_raw_response:
+                return(response)
 
         series_data = ''
 
@@ -175,20 +209,48 @@ class BLS:
                 Includes the following validation
                 if 'M01' <= period <= 'M12':
                     x.add_row([seriesId,year,period,value,footnotes[0:-1]])
+                
+                2025.02.01 -- Hamza Amjad
+                If annualaverage is set to true, it is returned as M13 in the data set
+                So that needs to be handled appropriately. For now, not adding handling for this
+                I likely won't need annual averages for the work I'm doing at the moment
                 """
                 series_data = [
                     {
                         "series_id": series["seriesID"],
+                        **(
+                            {
+                                "series_title": series.get("catalog", {}).get("series_title"),
+                                "seasonality": series.get("catalog", {}).get("seasonality"),
+                                "measure_data_type": series.get("catalog", {}).get("measure_data_type"),
+                                "commerce_industry": series.get("catalog", {}).get("commerce_industry"),
+                                "commerce_sector": series.get("catalog", {}).get("commerce_sector"),
+                            } if catalog else {}
+                        ),
                         "year": data["year"],
-                        "period": data["period"],
+                        "period": data["period"], 
+                        "period_name": data["periodName"],
                         "value": data["value"],
-                        "footnotes": data["footnotes"] if data["footnotes"] else "",
+                        "footnotes": data["footnotes"] if "footnotes" in data else "",
+                        **(
+                            {
+                                "aspects": data.get("aspects", {})
+                            } if aspects else {}
+                        ),
+                        **(
+                            {
+                                f"{calc_type}_{period}": value
+                                for calc_type, periods in data.get("calculations", {}).items()
+                                for period, value in periods.items()
+                            } if calculations else {}
+                        ),
                     }
                     for series in bls_series
-                    for data in series["data"]
+                    for data in series.get("data", [])
                 ]
             return(series_data)
-        except:
+        except Exception as e:
+            print(f"Error occurred: {str(e)}")
             """
             2025.01.26 -- Hamza Amjad
             Note to self -- For any unhandled errors

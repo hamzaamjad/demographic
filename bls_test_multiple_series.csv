@@ -1,241 +1,457 @@
-series_id,year,period,value,footnotes
-LNS14000000,2024,M12,4.1,[{}]
-LNS14000000,2024,M11,4.2,[{}]
-LNS14000000,2024,M10,4.1,[{}]
-LNS14000000,2024,M09,4.1,[{}]
-LNS14000000,2024,M08,4.2,[{}]
-LNS14000000,2024,M07,4.2,[{}]
-LNS14000000,2024,M06,4.1,[{}]
-LNS14000000,2024,M05,4.0,[{}]
-LNS14000000,2024,M04,3.9,[{}]
-LNS14000000,2024,M03,3.9,[{}]
-LNS14000000,2024,M02,3.9,[{}]
-LNS14000000,2024,M01,3.7,[{}]
-LNS14000000,2023,M12,3.8,[{}]
-LNS14000000,2023,M11,3.7,[{}]
-LNS14000000,2023,M10,3.9,[{}]
-LNS14000000,2023,M09,3.8,[{}]
-LNS14000000,2023,M08,3.7,[{}]
-LNS14000000,2023,M07,3.5,[{}]
-LNS14000000,2023,M06,3.6,[{}]
-LNS14000000,2023,M05,3.6,[{}]
-LNS14000000,2023,M04,3.4,[{}]
-LNS14000000,2023,M03,3.5,[{}]
-LNS14000000,2023,M02,3.6,[{}]
-LNS14000000,2023,M01,3.5,[{}]
-LNS14000000,2022,M12,3.5,[{}]
-LNS14000000,2022,M11,3.6,[{}]
-LNS14000000,2022,M10,3.6,[{}]
-LNS14000000,2022,M09,3.5,[{}]
-LNS14000000,2022,M08,3.6,[{}]
-LNS14000000,2022,M07,3.5,[{}]
-LNS14000000,2022,M06,3.6,[{}]
-LNS14000000,2022,M05,3.6,[{}]
-LNS14000000,2022,M04,3.7,[{}]
-LNS14000000,2022,M03,3.7,[{}]
-LNS14000000,2022,M02,3.8,[{}]
-LNS14000000,2022,M01,4.0,[{}]
-LNS14000000,2021,M12,3.9,[{}]
-LNS14000000,2021,M11,4.2,[{}]
-LNS14000000,2021,M10,4.5,[{}]
-LNS14000000,2021,M09,4.7,[{}]
-LNS14000000,2021,M08,5.1,[{}]
-LNS14000000,2021,M07,5.4,[{}]
-LNS14000000,2021,M06,5.9,[{}]
-LNS14000000,2021,M05,5.8,[{}]
-LNS14000000,2021,M04,6.1,[{}]
-LNS14000000,2021,M03,6.1,[{}]
-LNS14000000,2021,M02,6.2,[{}]
-LNS14000000,2021,M01,6.4,[{}]
-LNS14000000,2020,M12,6.7,[{}]
-LNS14000000,2020,M11,6.7,[{}]
-LNS14000000,2020,M10,6.9,[{}]
-LNS14000000,2020,M09,7.8,[{}]
-LNS14000000,2020,M08,8.4,[{}]
-LNS14000000,2020,M07,10.2,[{}]
-LNS14000000,2020,M06,11.0,[{}]
-LNS14000000,2020,M05,13.2,[{}]
-LNS14000000,2020,M04,14.8,[{}]
-LNS14000000,2020,M03,4.4,[{}]
-LNS14000000,2020,M02,3.5,[{}]
-LNS14000000,2020,M01,3.6,[{}]
-LNS14000000,2019,M12,3.6,[{}]
-LNS14000000,2019,M11,3.6,[{}]
-LNS14000000,2019,M10,3.6,[{}]
-LNS14000000,2019,M09,3.5,[{}]
-LNS14000000,2019,M08,3.6,[{}]
-LNS14000000,2019,M07,3.7,[{}]
-LNS14000000,2019,M06,3.6,[{}]
-LNS14000000,2019,M05,3.6,[{}]
-LNS14000000,2019,M04,3.7,[{}]
-LNS14000000,2019,M03,3.8,[{}]
-LNS14000000,2019,M02,3.8,[{}]
-LNS14000000,2019,M01,4.0,[{}]
-LNS14000000,2018,M12,3.9,[{}]
-LNS14000000,2018,M11,3.8,[{}]
-LNS14000000,2018,M10,3.8,[{}]
-LNS14000000,2018,M09,3.7,[{}]
-LNS14000000,2018,M08,3.8,[{}]
-LNS14000000,2018,M07,3.8,[{}]
-LNS14000000,2018,M06,4.0,[{}]
-LNS14000000,2018,M05,3.8,[{}]
-LNS14000000,2018,M04,4.0,[{}]
-LNS14000000,2018,M03,4.0,[{}]
-LNS14000000,2018,M02,4.1,[{}]
-LNS14000000,2018,M01,4.0,[{}]
-LNS14000000,2017,M12,4.1,[{}]
-LNS14000000,2017,M11,4.2,[{}]
-LNS14000000,2017,M10,4.2,[{}]
-LNS14000000,2017,M09,4.3,[{}]
-LNS14000000,2017,M08,4.4,[{}]
-LNS14000000,2017,M07,4.3,[{}]
-LNS14000000,2017,M06,4.3,[{}]
-LNS14000000,2017,M05,4.4,[{}]
-LNS14000000,2017,M04,4.4,[{}]
-LNS14000000,2017,M03,4.4,[{}]
-LNS14000000,2017,M02,4.6,[{}]
-LNS14000000,2017,M01,4.7,[{}]
-LNS14000000,2016,M12,4.7,[{}]
-LNS14000000,2016,M11,4.7,[{}]
-LNS14000000,2016,M10,4.9,[{}]
-LNS14000000,2016,M09,5.0,[{}]
-LNS14000000,2016,M08,4.9,[{}]
-LNS14000000,2016,M07,4.8,[{}]
-LNS14000000,2016,M06,4.9,[{}]
-LNS14000000,2016,M05,4.8,[{}]
-LNS14000000,2016,M04,5.1,[{}]
-LNS14000000,2016,M03,5.0,[{}]
-LNS14000000,2016,M02,4.9,[{}]
-LNS14000000,2016,M01,4.8,[{}]
-LNS14000000,2015,M12,5.0,[{}]
-LNS14000000,2015,M11,5.1,[{}]
-LNS14000000,2015,M10,5.0,[{}]
-LNS14000000,2015,M09,5.0,[{}]
-LNS14000000,2015,M08,5.1,[{}]
-LNS14000000,2015,M07,5.2,[{}]
-LNS14000000,2015,M06,5.3,[{}]
-LNS14000000,2015,M05,5.6,[{}]
-LNS14000000,2015,M04,5.4,[{}]
-LNS14000000,2015,M03,5.4,[{}]
-LNS14000000,2015,M02,5.5,[{}]
-LNS14000000,2015,M01,5.7,[{}]
-CES0000000001,2024,M12,159536,"[{'code': 'P', 'text': 'preliminary'}]"
-CES0000000001,2024,M11,159280,"[{'code': 'P', 'text': 'preliminary'}]"
-CES0000000001,2024,M10,159068,[{}]
-CES0000000001,2024,M09,159025,[{}]
-CES0000000001,2024,M08,158770,[{}]
-CES0000000001,2024,M07,158692,[{}]
-CES0000000001,2024,M06,158548,[{}]
-CES0000000001,2024,M05,158430,[{}]
-CES0000000001,2024,M04,158214,[{}]
-CES0000000001,2024,M03,158106,[{}]
-CES0000000001,2024,M02,157796,[{}]
-CES0000000001,2024,M01,157560,[{}]
-CES0000000001,2023,M12,157304,[{}]
-CES0000000001,2023,M11,157014,[{}]
-CES0000000001,2023,M10,156832,[{}]
-CES0000000001,2023,M09,156667,[{}]
-CES0000000001,2023,M08,156421,[{}]
-CES0000000001,2023,M07,156211,[{}]
-CES0000000001,2023,M06,156027,[{}]
-CES0000000001,2023,M05,155787,[{}]
-CES0000000001,2023,M04,155484,[{}]
-CES0000000001,2023,M03,155206,[{}]
-CES0000000001,2023,M02,155060,[{}]
-CES0000000001,2023,M01,154773,[{}]
-CES0000000001,2022,M12,154291,[{}]
-CES0000000001,2022,M11,154155,[{}]
-CES0000000001,2022,M10,153897,[{}]
-CES0000000001,2022,M09,153536,[{}]
-CES0000000001,2022,M08,153281,[{}]
-CES0000000001,2022,M07,153038,[{}]
-CES0000000001,2022,M06,152348,[{}]
-CES0000000001,2022,M05,151928,[{}]
-CES0000000001,2022,M04,151642,[{}]
-CES0000000001,2022,M03,151370,[{}]
-CES0000000001,2022,M02,150876,[{}]
-CES0000000001,2022,M01,150014,[{}]
-CES0000000001,2021,M12,149763,[{}]
-CES0000000001,2021,M11,149197,[{}]
-CES0000000001,2021,M10,148566,[{}]
-CES0000000001,2021,M09,147706,[{}]
-CES0000000001,2021,M08,147226,[{}]
-CES0000000001,2021,M07,146761,[{}]
-CES0000000001,2021,M06,145822,[{}]
-CES0000000001,2021,M05,145044,[{}]
-CES0000000001,2021,M04,144593,[{}]
-CES0000000001,2021,M03,144274,[{}]
-CES0000000001,2021,M02,143443,[{}]
-CES0000000001,2021,M01,142916,[{}]
-CES0000000001,2020,M12,142518,[{}]
-CES0000000001,2020,M11,142761,[{}]
-CES0000000001,2020,M10,142493,[{}]
-CES0000000001,2020,M09,141820,[{}]
-CES0000000001,2020,M08,140774,[{}]
-CES0000000001,2020,M07,139240,[{}]
-CES0000000001,2020,M06,137655,[{}]
-CES0000000001,2020,M05,133040,[{}]
-CES0000000001,2020,M04,130421,[{}]
-CES0000000001,2020,M03,150898,[{}]
-CES0000000001,2020,M02,152309,[{}]
-CES0000000001,2020,M01,152045,[{}]
-CES0000000001,2019,M12,151792,[{}]
-CES0000000001,2019,M11,151666,[{}]
-CES0000000001,2019,M10,151458,[{}]
-CES0000000001,2019,M09,151358,[{}]
-CES0000000001,2019,M08,151155,[{}]
-CES0000000001,2019,M07,150934,[{}]
-CES0000000001,2019,M06,150844,[{}]
-CES0000000001,2019,M05,150640,[{}]
-CES0000000001,2019,M04,150602,[{}]
-CES0000000001,2019,M03,150294,[{}]
-CES0000000001,2019,M02,150067,[{}]
-CES0000000001,2019,M01,150062,[{}]
-CES0000000001,2018,M12,149804,[{}]
-CES0000000001,2018,M11,149622,[{}]
-CES0000000001,2018,M10,149525,[{}]
-CES0000000001,2018,M09,149361,[{}]
-CES0000000001,2018,M08,149274,[{}]
-CES0000000001,2018,M07,149023,[{}]
-CES0000000001,2018,M06,148968,[{}]
-CES0000000001,2018,M05,148755,[{}]
-CES0000000001,2018,M04,148426,[{}]
-CES0000000001,2018,M03,148280,[{}]
-CES0000000001,2018,M02,148054,[{}]
-CES0000000001,2018,M01,147667,[{}]
-CES0000000001,2017,M12,147521,[{}]
-CES0000000001,2017,M11,147375,[{}]
-CES0000000001,2017,M10,147146,[{}]
-CES0000000001,2017,M09,146999,[{}]
-CES0000000001,2017,M08,146907,[{}]
-CES0000000001,2017,M07,146772,[{}]
-CES0000000001,2017,M06,146588,[{}]
-CES0000000001,2017,M05,146389,[{}]
-CES0000000001,2017,M04,146173,[{}]
-CES0000000001,2017,M03,145976,[{}]
-CES0000000001,2017,M02,145848,[{}]
-CES0000000001,2017,M01,145636,[{}]
-CES0000000001,2016,M12,145410,[{}]
-CES0000000001,2016,M11,145188,[{}]
-CES0000000001,2016,M10,145069,[{}]
-CES0000000001,2016,M09,144961,[{}]
-CES0000000001,2016,M08,144664,[{}]
-CES0000000001,2016,M07,144515,[{}]
-CES0000000001,2016,M06,144152,[{}]
-CES0000000001,2016,M05,143901,[{}]
-CES0000000001,2016,M04,143856,[{}]
-CES0000000001,2016,M03,143666,[{}]
-CES0000000001,2016,M02,143411,[{}]
-CES0000000001,2016,M01,143196,[{}]
-CES0000000001,2015,M12,143083,[{}]
-CES0000000001,2015,M11,142810,[{}]
-CES0000000001,2015,M10,142584,[{}]
-CES0000000001,2015,M09,142265,[{}]
-CES0000000001,2015,M08,142130,[{}]
-CES0000000001,2015,M07,141989,[{}]
-CES0000000001,2015,M06,141695,[{}]
-CES0000000001,2015,M05,141539,[{}]
-CES0000000001,2015,M04,141202,[{}]
-CES0000000001,2015,M03,140925,[{}]
-CES0000000001,2015,M02,140831,[{}]
-CES0000000001,2015,M01,140562,[{}]
+series_id,series_title,seasonality,measure_data_type,commerce_industry,commerce_sector,year,period,period_name,value,footnotes,aspects,net_changes_1,net_changes_3,net_changes_6,net_changes_12,pct_changes_1,pct_changes_3,pct_changes_6,pct_changes_12
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2024,M12,December,4.1,[{}],[],-0.1,0.0,0.0,0.3,-2.4,0.0,0.0,7.9
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2024,M11,November,4.2,[{}],[],0.1,0.0,0.2,0.5,2.4,0.0,5.0,13.5
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2024,M10,October,4.1,[{}],[],0.0,-0.1,0.2,0.2,0.0,-2.4,5.1,5.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2024,M09,September,4.1,[{}],[],-0.1,0.0,0.2,0.3,-2.4,0.0,5.1,7.9
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2024,M08,August,4.2,[{}],[],0.0,0.2,0.3,0.5,0.0,5.0,7.7,13.5
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2024,M07,July,4.2,[{}],[],0.1,0.3,0.5,0.7,2.4,7.7,13.5,20.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2024,M06,June,4.1,[{}],[],0.1,0.2,0.3,0.5,2.5,5.1,7.9,13.9
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2024,M05,May,4.0,[{}],[],0.1,0.1,0.3,0.4,2.6,2.6,8.1,11.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2024,M04,April,3.9,[{}],[],0.0,0.2,0.0,0.5,0.0,5.4,0.0,14.7
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2024,M03,March,3.9,[{}],[],0.0,0.1,0.1,0.4,0.0,2.6,2.6,11.4
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2024,M02,February,3.9,[{}],[],0.2,0.2,0.2,0.3,5.4,5.4,5.4,8.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2024,M01,January,3.7,[{}],[],-0.1,-0.2,0.2,0.2,-2.6,-5.1,5.7,5.7
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2023,M12,December,3.8,[{}],[],0.1,0.0,0.2,0.3,2.7,0.0,5.6,8.6
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2023,M11,November,3.7,[{}],[],-0.2,0.0,0.1,0.1,-5.1,0.0,2.8,2.8
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2023,M10,October,3.9,[{}],[],0.1,0.4,0.5,0.3,2.6,11.4,14.7,8.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2023,M09,September,3.8,[{}],[],0.1,0.2,0.3,0.3,2.7,5.6,8.6,8.6
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2023,M08,August,3.7,[{}],[],0.2,0.1,0.1,0.1,5.7,2.8,2.8,2.8
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2023,M07,July,3.5,[{}],[],-0.1,0.1,0.0,0.0,-2.8,2.9,0.0,0.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2023,M06,June,3.6,[{}],[],0.0,0.1,0.1,0.0,0.0,2.9,2.9,0.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2023,M05,May,3.6,[{}],[],0.2,0.0,0.0,0.0,5.9,0.0,0.0,0.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2023,M04,April,3.4,[{}],[],-0.1,-0.1,-0.2,-0.3,-2.9,-2.9,-5.6,-8.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2023,M03,March,3.5,[{}],[],-0.1,0.0,0.0,-0.2,-2.8,0.0,0.0,-5.4
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2023,M02,February,3.6,[{}],[],0.1,0.0,0.0,-0.2,2.9,0.0,0.0,-5.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2023,M01,January,3.5,[{}],[],0.0,-0.1,0.0,-0.5,0.0,-2.8,0.0,-12.5
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2022,M12,December,3.5,[{}],[],-0.1,0.0,-0.1,-0.4,-2.8,0.0,-2.8,-10.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2022,M11,November,3.6,[{}],[],0.0,0.0,0.0,-0.6,0.0,0.0,0.0,-14.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2022,M10,October,3.6,[{}],[],0.1,0.1,-0.1,-0.9,2.9,2.9,-2.7,-20.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2022,M09,September,3.5,[{}],[],-0.1,-0.1,-0.2,-1.2,-2.8,-2.8,-5.4,-25.5
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2022,M08,August,3.6,[{}],[],0.1,0.0,-0.2,-1.5,2.9,0.0,-5.3,-29.4
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2022,M07,July,3.5,[{}],[],-0.1,-0.2,-0.5,-1.9,-2.8,-5.4,-12.5,-35.2
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2022,M06,June,3.6,[{}],[],0.0,-0.1,-0.3,-2.3,0.0,-2.7,-7.7,-39.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2022,M05,May,3.6,[{}],[],-0.1,-0.2,-0.6,-2.2,-2.7,-5.3,-14.3,-37.9
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2022,M04,April,3.7,[{}],[],0.0,-0.3,-0.8,-2.4,0.0,-7.5,-17.8,-39.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2022,M03,March,3.7,[{}],[],-0.1,-0.2,-1.0,-2.4,-2.6,-5.1,-21.3,-39.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2022,M02,February,3.8,[{}],[],-0.2,-0.4,-1.3,-2.4,-5.0,-9.5,-25.5,-38.7
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2022,M01,January,4.0,[{}],[],0.1,-0.5,-1.4,-2.4,2.6,-11.1,-25.9,-37.5
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2021,M12,December,3.9,[{}],[],-0.3,-0.8,-2.0,-2.8,-7.1,-17.0,-33.9,-41.8
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2021,M11,November,4.2,[{}],[],-0.3,-0.9,-1.6,-2.5,-6.7,-17.6,-27.6,-37.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2021,M10,October,4.5,[{}],[],-0.2,-0.9,-1.6,-2.4,-4.3,-16.7,-26.2,-34.8
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2021,M09,September,4.7,[{}],[],-0.4,-1.2,-1.4,-3.1,-7.8,-20.3,-23.0,-39.7
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2021,M08,August,5.1,[{}],[],-0.3,-0.7,-1.1,-3.3,-5.6,-12.1,-17.7,-39.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2021,M07,July,5.4,[{}],[],-0.5,-0.7,-1.0,-4.8,-8.5,-11.5,-15.6,-47.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2021,M06,June,5.9,[{}],[],0.1,-0.2,-0.8,-5.1,1.7,-3.3,-11.9,-46.4
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2021,M05,May,5.8,[{}],[],-0.3,-0.4,-0.9,-7.4,-4.9,-6.5,-13.4,-56.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2021,M04,April,6.1,[{}],[],0.0,-0.3,-0.8,-8.7,0.0,-4.7,-11.6,-58.8
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2021,M03,March,6.1,[{}],[],-0.1,-0.6,-1.7,1.7,-1.6,-9.0,-21.8,38.6
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2021,M02,February,6.2,[{}],[],-0.2,-0.5,-2.2,2.7,-3.1,-7.5,-26.2,77.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2021,M01,January,6.4,[{}],[],-0.3,-0.5,-3.8,2.8,-4.5,-7.2,-37.3,77.8
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2020,M12,December,6.7,[{}],[],0.0,-1.1,-4.3,3.1,0.0,-14.1,-39.1,86.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2020,M11,November,6.7,[{}],[],-0.2,-1.7,-6.5,3.1,-2.9,-20.2,-49.2,86.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2020,M10,October,6.9,[{}],[],-0.9,-3.3,-7.9,3.3,-11.5,-32.4,-53.4,91.7
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2020,M09,September,7.8,[{}],[],-0.6,-3.2,3.4,4.3,-7.1,-29.1,77.3,122.9
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2020,M08,August,8.4,[{}],[],-1.8,-4.8,4.9,4.8,-17.6,-36.4,140.0,133.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2020,M07,July,10.2,[{}],[],-0.8,-4.6,6.6,6.5,-7.3,-31.1,183.3,175.7
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2020,M06,June,11.0,[{}],[],-2.2,6.6,7.4,7.4,-16.7,150.0,205.6,205.6
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2020,M05,May,13.2,[{}],[],-1.6,9.7,9.6,9.6,-10.8,277.1,266.7,266.7
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2020,M04,April,14.8,[{}],[],10.4,11.2,11.2,11.1,236.4,311.1,311.1,300.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2020,M03,March,4.4,[{}],[],0.9,0.8,0.9,0.6,25.7,22.2,25.7,15.8
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2020,M02,February,3.5,[{}],[],-0.1,-0.1,-0.1,-0.3,-2.8,-2.8,-2.8,-7.9
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2020,M01,January,3.6,[{}],[],0.0,0.0,-0.1,-0.4,0.0,0.0,-2.7,-10.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2019,M12,December,3.6,[{}],[],0.0,0.1,0.0,-0.3,0.0,2.9,0.0,-7.7
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2019,M11,November,3.6,[{}],[],0.0,0.0,0.0,-0.2,0.0,0.0,0.0,-5.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2019,M10,October,3.6,[{}],[],0.1,-0.1,-0.1,-0.2,2.9,-2.7,-2.7,-5.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2019,M09,September,3.5,[{}],[],-0.1,-0.1,-0.3,-0.2,-2.8,-2.8,-7.9,-5.4
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2019,M08,August,3.6,[{}],[],-0.1,0.0,-0.2,-0.2,-2.7,0.0,-5.3,-5.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2019,M07,July,3.7,[{}],[],0.1,0.0,-0.3,-0.1,2.8,0.0,-7.5,-2.6
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2019,M06,June,3.6,[{}],[],0.0,-0.2,-0.3,-0.4,0.0,-5.3,-7.7,-10.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2019,M05,May,3.6,[{}],[],-0.1,-0.2,-0.2,-0.2,-2.7,-5.3,-5.3,-5.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2019,M04,April,3.7,[{}],[],-0.1,-0.3,-0.1,-0.3,-2.6,-7.5,-2.6,-7.5
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2019,M03,March,3.8,[{}],[],0.0,-0.1,0.1,-0.2,0.0,-2.6,2.7,-5.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2019,M02,February,3.8,[{}],[],-0.2,0.0,0.0,-0.3,-5.0,0.0,0.0,-7.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2019,M01,January,4.0,[{}],[],0.1,0.2,0.2,0.0,2.6,5.3,5.3,0.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2018,M12,December,3.9,[{}],[],0.1,0.2,-0.1,-0.2,2.6,5.4,-2.5,-4.9
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2018,M11,November,3.8,[{}],[],0.0,0.0,0.0,-0.4,0.0,0.0,0.0,-9.5
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2018,M10,October,3.8,[{}],[],0.1,0.0,-0.2,-0.4,2.7,0.0,-5.0,-9.5
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2018,M09,September,3.7,[{}],[],-0.1,-0.3,-0.3,-0.6,-2.6,-7.5,-7.5,-14.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2018,M08,August,3.8,[{}],[],0.0,0.0,-0.3,-0.6,0.0,0.0,-7.3,-13.6
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2018,M07,July,3.8,[{}],[],-0.2,-0.2,-0.2,-0.5,-5.0,-5.0,-5.0,-11.6
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2018,M06,June,4.0,[{}],[],0.2,0.0,-0.1,-0.3,5.3,0.0,-2.4,-7.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2018,M05,May,3.8,[{}],[],-0.2,-0.3,-0.4,-0.6,-5.0,-7.3,-9.5,-13.6
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2018,M04,April,4.0,[{}],[],0.0,0.0,-0.2,-0.4,0.0,0.0,-4.8,-9.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2018,M03,March,4.0,[{}],[],-0.1,-0.1,-0.3,-0.4,-2.4,-2.4,-7.0,-9.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2018,M02,February,4.1,[{}],[],0.1,-0.1,-0.3,-0.5,2.5,-2.4,-6.8,-10.9
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2018,M01,January,4.0,[{}],[],-0.1,-0.2,-0.3,-0.7,-2.4,-4.8,-7.0,-14.9
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2017,M12,December,4.1,[{}],[],-0.1,-0.2,-0.2,-0.6,-2.4,-4.7,-4.7,-12.8
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2017,M11,November,4.2,[{}],[],0.0,-0.2,-0.2,-0.5,0.0,-4.5,-4.5,-10.6
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2017,M10,October,4.2,[{}],[],-0.1,-0.1,-0.2,-0.7,-2.3,-2.3,-4.5,-14.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2017,M09,September,4.3,[{}],[],-0.1,0.0,-0.1,-0.7,-2.3,0.0,-2.3,-14.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2017,M08,August,4.4,[{}],[],0.1,0.0,-0.2,-0.5,2.3,0.0,-4.3,-10.2
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2017,M07,July,4.3,[{}],[],0.0,-0.1,-0.4,-0.5,0.0,-2.3,-8.5,-10.4
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2017,M06,June,4.3,[{}],[],-0.1,-0.1,-0.4,-0.6,-2.3,-2.3,-8.5,-12.2
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2017,M05,May,4.4,[{}],[],0.0,-0.2,-0.3,-0.4,0.0,-4.3,-6.4,-8.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2017,M04,April,4.4,[{}],[],0.0,-0.3,-0.5,-0.7,0.0,-6.4,-10.2,-13.7
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2017,M03,March,4.4,[{}],[],-0.2,-0.3,-0.6,-0.6,-4.3,-6.4,-12.0,-12.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2017,M02,February,4.6,[{}],[],-0.1,-0.1,-0.3,-0.3,-2.1,-2.1,-6.1,-6.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2017,M01,January,4.7,[{}],[],0.0,-0.2,-0.1,-0.1,0.0,-4.1,-2.1,-2.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2016,M12,December,4.7,[{}],[],0.0,-0.3,-0.2,-0.3,0.0,-6.0,-4.1,-6.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2016,M11,November,4.7,[{}],[],-0.2,-0.2,-0.1,-0.4,-4.1,-4.1,-2.1,-7.8
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2016,M10,October,4.9,[{}],[],-0.1,0.1,-0.2,-0.1,-2.0,2.1,-3.9,-2.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2016,M09,September,5.0,[{}],[],0.1,0.1,0.0,0.0,2.0,2.0,0.0,0.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2016,M08,August,4.9,[{}],[],0.1,0.1,0.0,-0.2,2.1,2.1,0.0,-3.9
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2016,M07,July,4.8,[{}],[],-0.1,-0.3,0.0,-0.4,-2.0,-5.9,0.0,-7.7
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2016,M06,June,4.9,[{}],[],0.1,-0.1,-0.1,-0.4,2.1,-2.0,-2.0,-7.5
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2016,M05,May,4.8,[{}],[],-0.3,-0.1,-0.3,-0.8,-5.9,-2.0,-5.9,-14.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2016,M04,April,5.1,[{}],[],0.1,0.3,0.1,-0.3,2.0,6.3,2.0,-5.6
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2016,M03,March,5.0,[{}],[],0.1,0.0,0.0,-0.4,2.0,0.0,0.0,-7.4
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2016,M02,February,4.9,[{}],[],0.1,-0.2,-0.2,-0.6,2.1,-3.9,-3.9,-10.9
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2016,M01,January,4.8,[{}],[],-0.2,-0.2,-0.4,-0.9,-4.0,-4.0,-7.7,-15.8
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2015,M12,December,5.0,[{}],[],-0.1,0.0,-0.3,-0.6,-2.0,0.0,-5.7,-10.7
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2015,M11,November,5.1,[{}],[],0.1,0.0,-0.5,-0.7,2.0,0.0,-8.9,-12.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2015,M10,October,5.0,[{}],[],0.0,-0.2,-0.4,-0.7,0.0,-3.8,-7.4,-12.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2015,M09,September,5.0,[{}],[],-0.1,-0.3,-0.4,-0.9,-2.0,-5.7,-7.4,-15.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2015,M08,August,5.1,[{}],[],-0.1,-0.5,-0.4,-1.0,-1.9,-8.9,-7.3,-16.4
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2015,M07,July,5.2,[{}],[],-0.1,-0.2,-0.5,-1.0,-1.9,-3.7,-8.8,-16.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2015,M06,June,5.3,[{}],[],-0.3,-0.1,-0.3,-0.8,-5.4,-1.9,-5.4,-13.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2015,M05,May,5.6,[{}],[],0.2,0.1,-0.2,-0.7,3.7,1.8,-3.4,-11.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2015,M04,April,5.4,[{}],[],0.0,-0.3,-0.3,-0.8,0.0,-5.3,-5.3,-12.9
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2015,M03,March,5.4,[{}],[],-0.1,-0.2,-0.5,-1.3,-1.8,-3.6,-8.5,-19.4
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2015,M02,February,5.5,[{}],[],-0.2,-0.3,-0.6,-1.2,-3.5,-5.2,-9.8,-17.9
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2015,M01,January,5.7,[{}],[],0.1,0.0,-0.5,-0.9,1.8,0.0,-8.1,-13.6
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2014,M12,December,5.6,[{}],[],-0.2,-0.3,-0.5,-1.1,-3.4,-5.1,-8.2,-16.4
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2014,M11,November,5.8,[{}],[],0.1,-0.3,-0.5,-1.1,1.8,-4.9,-7.9,-15.9
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2014,M10,October,5.7,[{}],[],-0.2,-0.5,-0.5,-1.5,-3.4,-8.1,-8.1,-20.8
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2014,M09,September,5.9,[{}],[],-0.2,-0.2,-0.8,-1.3,-3.3,-3.3,-11.9,-18.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2014,M08,August,6.1,[{}],[],-0.1,-0.2,-0.6,-1.1,-1.6,-3.2,-9.0,-15.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2014,M07,July,6.2,[{}],[],0.1,0.0,-0.4,-1.1,1.6,0.0,-6.1,-15.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2014,M06,June,6.1,[{}],[],-0.2,-0.6,-0.6,-1.4,-3.2,-9.0,-9.0,-18.7
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2014,M05,May,6.3,[{}],[],0.1,-0.4,-0.6,-1.2,1.6,-6.0,-8.7,-16.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2014,M04,April,6.2,[{}],[],-0.5,-0.4,-1.0,-1.4,-7.5,-6.1,-13.9,-18.4
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2014,M03,March,6.7,[{}],[],0.0,0.0,-0.5,-0.8,0.0,0.0,-6.9,-10.7
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2014,M02,February,6.7,[{}],[],0.1,-0.2,-0.5,-1.0,1.5,-2.9,-6.9,-13.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2014,M01,January,6.6,[{}],[],-0.1,-0.6,-0.7,-1.4,-1.5,-8.3,-9.6,-17.5
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2013,M12,December,6.7,[{}],[],-0.2,-0.5,-0.8,-1.2,-2.9,-6.9,-10.7,-15.2
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2013,M11,November,6.9,[{}],[],-0.3,-0.3,-0.6,-0.8,-4.2,-4.2,-8.0,-10.4
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2013,M10,October,7.2,[{}],[],0.0,-0.1,-0.4,-0.6,0.0,-1.4,-5.3,-7.7
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2013,M09,September,7.2,[{}],[],0.0,-0.3,-0.3,-0.6,0.0,-4.0,-4.0,-7.7
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2013,M08,August,7.2,[{}],[],-0.1,-0.3,-0.5,-0.9,-1.4,-4.0,-6.5,-11.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2013,M07,July,7.3,[{}],[],-0.2,-0.3,-0.7,-0.9,-2.7,-3.9,-8.8,-11.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2013,M06,June,7.5,[{}],[],0.0,0.0,-0.4,-0.7,0.0,0.0,-5.1,-8.5
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2013,M05,May,7.5,[{}],[],-0.1,-0.2,-0.2,-0.7,-1.3,-2.6,-2.6,-8.5
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2013,M04,April,7.6,[{}],[],0.1,-0.4,-0.2,-0.6,1.3,-5.0,-2.6,-7.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2013,M03,March,7.5,[{}],[],-0.2,-0.4,-0.3,-0.7,-2.6,-5.1,-3.8,-8.5
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2013,M02,February,7.7,[{}],[],-0.3,0.0,-0.4,-0.6,-3.8,0.0,-4.9,-7.2
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2013,M01,January,8.0,[{}],[],0.1,0.2,-0.2,-0.3,1.3,2.6,-2.4,-3.6
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2012,M12,December,7.9,[{}],[],0.2,0.1,-0.3,-0.6,2.6,1.3,-3.7,-7.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2012,M11,November,7.7,[{}],[],-0.1,-0.4,-0.5,-0.9,-1.3,-4.9,-6.1,-10.5
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2012,M10,October,7.8,[{}],[],0.0,-0.4,-0.4,-1.0,0.0,-4.9,-4.9,-11.4
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2012,M09,September,7.8,[{}],[],-0.3,-0.4,-0.4,-1.2,-3.7,-4.9,-4.9,-13.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2012,M08,August,8.1,[{}],[],-0.1,-0.1,-0.2,-0.9,-1.2,-1.2,-2.4,-10.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2012,M07,July,8.2,[{}],[],0.0,0.0,-0.1,-0.8,0.0,0.0,-1.2,-8.9
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2012,M06,June,8.2,[{}],[],0.0,0.0,-0.3,-0.9,0.0,0.0,-3.5,-9.9
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2012,M05,May,8.2,[{}],[],0.0,-0.1,-0.4,-0.8,0.0,-1.2,-4.7,-8.9
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2012,M04,April,8.2,[{}],[],0.0,-0.1,-0.6,-0.9,0.0,-1.2,-6.8,-9.9
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2012,M03,March,8.2,[{}],[],-0.1,-0.3,-0.8,-0.8,-1.2,-3.5,-8.9,-8.9
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2012,M02,February,8.3,[{}],[],0.0,-0.3,-0.7,-0.7,0.0,-3.5,-7.8,-7.8
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2012,M01,January,8.3,[{}],[],-0.2,-0.5,-0.7,-0.8,-2.4,-5.7,-7.8,-8.8
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2011,M12,December,8.5,[{}],[],-0.1,-0.5,-0.6,-0.8,-1.2,-5.6,-6.6,-8.6
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2011,M11,November,8.6,[{}],[],-0.2,-0.4,-0.4,-1.2,-2.3,-4.4,-4.4,-12.2
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2011,M10,October,8.8,[{}],[],-0.2,-0.2,-0.3,-0.6,-2.2,-2.2,-3.3,-6.4
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2011,M09,September,9.0,[{}],[],0.0,-0.1,0.0,-0.5,0.0,-1.1,0.0,-5.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2011,M08,August,9.0,[{}],[],0.0,0.0,0.0,-0.5,0.0,0.0,0.0,-5.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2011,M07,July,9.0,[{}],[],-0.1,-0.1,-0.1,-0.4,-1.1,-1.1,-1.1,-4.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2011,M06,June,9.1,[{}],[],0.1,0.1,-0.2,-0.3,1.1,1.1,-2.2,-3.2
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2011,M05,May,9.0,[{}],[],-0.1,0.0,-0.8,-0.6,-1.1,0.0,-8.2,-6.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2011,M04,April,9.1,[{}],[],0.1,0.0,-0.3,-0.8,1.1,0.0,-3.2,-8.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2011,M03,March,9.0,[{}],[],0.0,-0.3,-0.5,-0.9,0.0,-3.2,-5.3,-9.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2011,M02,February,9.0,[{}],[],-0.1,-0.8,-0.5,-0.8,-1.1,-8.2,-5.3,-8.2
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2011,M01,January,9.1,[{}],[],-0.2,-0.3,-0.3,-0.7,-2.2,-3.2,-3.2,-7.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2010,M12,December,9.3,[{}],[],-0.5,-0.2,-0.1,-0.6,-5.1,-2.1,-1.1,-6.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2010,M11,November,9.8,[{}],[],0.4,0.3,0.2,-0.1,4.3,3.2,2.1,-1.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2010,M10,October,9.4,[{}],[],-0.1,0.0,-0.5,-0.6,-1.1,0.0,-5.1,-6.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2010,M09,September,9.5,[{}],[],0.0,0.1,-0.4,-0.3,0.0,1.1,-4.0,-3.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2010,M08,August,9.5,[{}],[],0.1,-0.1,-0.3,-0.1,1.1,-1.0,-3.1,-1.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2010,M07,July,9.4,[{}],[],0.0,-0.5,-0.4,-0.1,0.0,-5.1,-4.1,-1.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2010,M06,June,9.4,[{}],[],-0.2,-0.5,-0.5,-0.1,-2.1,-5.1,-5.1,-1.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2010,M05,May,9.6,[{}],[],-0.3,-0.2,-0.3,0.2,-3.0,-2.0,-3.0,2.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2010,M04,April,9.9,[{}],[],0.0,0.1,-0.1,0.9,0.0,1.0,-1.0,10.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2010,M03,March,9.9,[{}],[],0.1,0.0,0.1,1.2,1.0,0.0,1.0,13.8
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2010,M02,February,9.8,[{}],[],0.0,-0.1,0.2,1.5,0.0,-1.0,2.1,18.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2010,M01,January,9.8,[{}],[],-0.1,-0.2,0.3,2.0,-1.0,-2.0,3.2,25.6
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2009,M12,December,9.9,[{}],[],0.0,0.1,0.4,2.6,0.0,1.0,4.2,35.6
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2009,M11,November,9.9,[{}],[],-0.1,0.3,0.5,3.1,-1.0,3.1,5.3,45.6
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2009,M10,October,10.0,[{}],[],0.2,0.5,1.0,3.5,2.0,5.3,11.1,53.8
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2009,M09,September,9.8,[{}],[],0.2,0.3,1.1,3.7,2.1,3.2,12.6,60.7
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2009,M08,August,9.6,[{}],[],0.1,0.2,1.3,3.5,1.1,2.1,15.7,57.4
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2009,M07,July,9.5,[{}],[],0.0,0.5,1.7,3.7,0.0,5.6,21.8,63.8
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2009,M06,June,9.5,[{}],[],0.1,0.8,2.2,3.9,1.1,9.2,30.1,69.6
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2009,M05,May,9.4,[{}],[],0.4,1.1,2.6,4.0,4.4,13.3,38.2,74.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2009,M04,April,9.0,[{}],[],0.3,1.2,2.5,4.0,3.4,15.4,38.5,80.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2009,M03,March,8.7,[{}],[],0.4,1.4,2.6,3.6,4.8,19.2,42.6,70.6
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2009,M02,February,8.3,[{}],[],0.5,1.5,2.2,3.4,6.4,22.1,36.1,69.4
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2009,M01,January,7.8,[{}],[],0.5,1.3,2.0,2.8,6.8,20.0,34.5,56.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2008,M12,December,7.3,[{}],[],0.5,1.2,1.7,2.3,7.4,19.7,30.4,46.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2008,M11,November,6.8,[{}],[],0.3,0.7,1.4,2.1,4.6,11.5,25.9,44.7
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2008,M10,October,6.5,[{}],[],0.4,0.7,1.5,1.8,6.6,12.1,30.0,38.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2008,M09,September,6.1,[{}],[],0.0,0.5,1.0,1.4,0.0,8.9,19.6,29.8
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2008,M08,August,6.1,[{}],[],0.3,0.7,1.2,1.5,5.2,13.0,24.5,32.6
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2008,M07,July,5.8,[{}],[],0.2,0.8,0.8,1.1,3.6,16.0,16.0,23.4
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2008,M06,June,5.6,[{}],[],0.2,0.5,0.6,1.0,3.7,9.8,12.0,21.7
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2008,M05,May,5.4,[{}],[],0.4,0.5,0.7,1.0,8.0,10.2,14.9,22.7
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2008,M04,April,5.0,[{}],[],-0.1,0.0,0.3,0.5,-2.0,0.0,6.4,11.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2008,M03,March,5.1,[{}],[],0.2,0.1,0.4,0.7,4.1,2.0,8.5,15.9
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2008,M02,February,4.9,[{}],[],-0.1,0.2,0.3,0.4,-2.0,4.3,6.5,8.9
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2008,M01,January,5.0,[{}],[],0.0,0.3,0.3,0.4,0.0,6.4,6.4,8.7
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2007,M12,December,5.0,[{}],[],0.3,0.3,0.4,0.6,6.4,6.4,8.7,13.6
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2007,M11,November,4.7,[{}],[],0.0,0.1,0.3,0.2,0.0,2.2,6.8,4.4
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2007,M10,October,4.7,[{}],[],0.0,0.0,0.2,0.3,0.0,0.0,4.4,6.8
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2007,M09,September,4.7,[{}],[],0.1,0.1,0.3,0.2,2.2,2.2,6.8,4.4
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2007,M08,August,4.6,[{}],[],-0.1,0.2,0.1,-0.1,-2.1,4.5,2.2,-2.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2007,M07,July,4.7,[{}],[],0.1,0.2,0.1,0.0,2.2,4.4,2.2,0.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2007,M06,June,4.6,[{}],[],0.2,0.2,0.2,0.0,4.5,4.5,4.5,0.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2007,M05,May,4.4,[{}],[],-0.1,-0.1,-0.1,-0.2,-2.2,-2.2,-2.2,-4.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2007,M04,April,4.5,[{}],[],0.1,-0.1,0.1,-0.2,2.3,-2.2,2.3,-4.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2007,M03,March,4.4,[{}],[],-0.1,0.0,-0.1,-0.3,-2.2,0.0,-2.2,-6.4
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2007,M02,February,4.5,[{}],[],-0.1,0.0,-0.2,-0.3,-2.2,0.0,-4.3,-6.3
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2007,M01,January,4.6,[{}],[],0.2,0.2,-0.1,-0.1,4.5,4.5,-2.1,-2.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2006,M12,December,4.4,[{}],[],-0.1,-0.1,-0.2,-0.5,-2.2,-2.2,-4.3,-10.2
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2006,M11,November,4.5,[{}],[],0.1,-0.2,-0.1,-0.5,2.3,-4.3,-2.2,-10.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2006,M10,October,4.4,[{}],[],-0.1,-0.3,-0.3,-0.6,-2.2,-6.4,-6.4,-12.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2006,M09,September,4.5,[{}],[],-0.2,-0.1,-0.2,-0.5,-4.3,-2.2,-4.3,-10.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2006,M08,August,4.7,[{}],[],0.0,0.1,-0.1,-0.2,0.0,2.2,-2.1,-4.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2006,M07,July,4.7,[{}],[],0.1,0.0,0.0,-0.3,2.2,0.0,0.0,-6.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2006,M06,June,4.6,[{}],[],0.0,-0.1,-0.3,-0.4,0.0,-2.1,-6.1,-8.0
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2006,M05,May,4.6,[{}],[],-0.1,-0.2,-0.4,-0.5,-2.1,-4.2,-8.0,-9.8
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2006,M04,April,4.7,[{}],[],0.0,0.0,-0.3,-0.5,0.0,0.0,-6.0,-9.6
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2006,M03,March,4.7,[{}],[],-0.1,-0.2,-0.3,-0.5,-2.1,-4.1,-6.0,-9.6
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2006,M02,February,4.8,[{}],[],0.1,-0.2,-0.1,-0.6,2.1,-4.0,-2.0,-11.1
+LNS14000000,(Seas) Unemployment Rate,Seasonally Adjusted,Percent or rate,All Industries,,2006,M01,January,4.7,[{}],[],-0.2,-0.3,-0.3,-0.6,-4.1,-6.0,-6.0,-11.3
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2024,M12,December,159536,"[{'code': 'P', 'text': 'preliminary'}]",[],256,511,988,2232,0.2,0.3,0.6,1.4
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2024,M11,November,159280,"[{'code': 'P', 'text': 'preliminary'}]",[],212,510,850,2266,0.1,0.3,0.5,1.4
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2024,M10,October,159068,[{}],[],43,376,854,2236,0.0,0.2,0.5,1.4
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2024,M09,September,159025,[{}],[],255,477,919,2358,0.2,0.3,0.6,1.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2024,M08,August,158770,[{}],[],78,340,974,2349,0.0,0.2,0.6,1.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2024,M07,July,158692,[{}],[],144,478,1132,2481,0.1,0.3,0.7,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2024,M06,June,158548,[{}],[],118,442,1244,2521,0.1,0.3,0.8,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2024,M05,May,158430,[{}],[],216,634,1416,2643,0.1,0.4,0.9,1.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2024,M04,April,158214,[{}],[],108,654,1382,2730,0.1,0.4,0.9,1.8
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2024,M03,March,158106,[{}],[],310,802,1439,2900,0.2,0.5,0.9,1.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2024,M02,February,157796,[{}],[],236,782,1375,2736,0.1,0.5,0.9,1.8
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2024,M01,January,157560,[{}],[],256,728,1349,2787,0.2,0.5,0.9,1.8
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2023,M12,December,157304,[{}],[],290,637,1277,3013,0.2,0.4,0.8,2.0
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2023,M11,November,157014,[{}],[],182,593,1227,2859,0.1,0.4,0.8,1.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2023,M10,October,156832,[{}],[],165,621,1348,2935,0.1,0.4,0.9,1.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2023,M09,September,156667,[{}],[],246,640,1461,3131,0.2,0.4,0.9,2.0
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2023,M08,August,156421,[{}],[],210,634,1361,3140,0.1,0.4,0.9,2.0
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2023,M07,July,156211,[{}],[],184,727,1438,3173,0.1,0.5,0.9,2.1
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2023,M06,June,156027,[{}],[],240,821,1736,3679,0.2,0.5,1.1,2.4
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2023,M05,May,155787,[{}],[],303,727,1632,3859,0.2,0.5,1.1,2.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2023,M04,April,155484,[{}],[],278,711,1587,3842,0.2,0.5,1.0,2.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2023,M03,March,155206,[{}],[],146,915,1670,3836,0.1,0.6,1.1,2.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2023,M02,February,155060,[{}],[],287,905,1779,4184,0.2,0.6,1.2,2.8
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2023,M01,January,154773,[{}],[],482,876,1735,4759,0.3,0.6,1.1,3.2
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2022,M12,December,154291,[{}],[],136,755,1943,4528,0.1,0.5,1.3,3.0
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2022,M11,November,154155,[{}],[],258,874,2227,4958,0.2,0.6,1.5,3.3
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2022,M10,October,153897,[{}],[],361,859,2255,5331,0.2,0.6,1.5,3.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2022,M09,September,153536,[{}],[],255,1188,2166,5830,0.2,0.8,1.4,3.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2022,M08,August,153281,[{}],[],243,1353,2405,6055,0.2,0.9,1.6,4.1
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2022,M07,July,153038,[{}],[],690,1396,3024,6277,0.5,0.9,2.0,4.3
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2022,M06,June,152348,[{}],[],420,978,2585,6526,0.3,0.6,1.7,4.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2022,M05,May,151928,[{}],[],286,1052,2731,6884,0.2,0.7,1.8,4.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2022,M04,April,151642,[{}],[],272,1628,3076,7049,0.2,1.1,2.1,4.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2022,M03,March,151370,[{}],[],494,1607,3664,7096,0.3,1.1,2.5,4.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2022,M02,February,150876,[{}],[],862,1679,3650,7433,0.6,1.1,2.5,5.2
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2022,M01,January,150014,[{}],[],251,1448,3253,7098,0.2,1.0,2.2,5.0
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2021,M12,December,149763,[{}],[],566,2057,3941,7245,0.4,1.4,2.7,5.1
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2021,M11,November,149197,[{}],[],631,1971,4153,6436,0.4,1.3,2.9,4.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2021,M10,October,148566,[{}],[],860,1805,3973,6073,0.6,1.2,2.7,4.3
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2021,M09,September,147706,[{}],[],480,1884,3432,5886,0.3,1.3,2.4,4.2
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2021,M08,August,147226,[{}],[],465,2182,3783,6452,0.3,1.5,2.6,4.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2021,M07,July,146761,[{}],[],939,2168,3845,7521,0.6,1.5,2.7,5.4
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2021,M06,June,145822,[{}],[],778,1548,3304,8167,0.5,1.1,2.3,5.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2021,M05,May,145044,[{}],[],451,1601,2283,12004,0.3,1.1,1.6,9.0
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2021,M04,April,144593,[{}],[],319,1677,2100,14172,0.2,1.2,1.5,10.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2021,M03,March,144274,[{}],[],831,1756,2454,-6624,0.6,1.2,1.7,-4.4
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2021,M02,February,143443,[{}],[],527,682,2669,-8866,0.4,0.5,1.9,-5.8
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2021,M01,January,142916,[{}],[],398,423,3676,-9129,0.3,0.3,2.6,-6.0
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2020,M12,December,142518,[{}],[],-243,698,4863,-9274,-0.2,0.5,3.5,-6.1
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2020,M11,November,142761,[{}],[],268,1987,9721,-8905,0.2,1.4,7.3,-5.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2020,M10,October,142493,[{}],[],673,3253,12072,-8965,0.5,2.3,9.3,-5.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2020,M09,September,141820,[{}],[],1046,4165,-9078,-9538,0.7,3.0,-6.0,-6.3
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2020,M08,August,140774,[{}],[],1534,7734,-11535,-10381,1.1,5.8,-7.6,-6.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2020,M07,July,139240,[{}],[],1585,8819,-12805,-11694,1.2,6.8,-8.4,-7.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2020,M06,June,137655,[{}],[],4615,-13243,-14137,-13189,3.5,-8.8,-9.3,-8.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2020,M05,May,133040,[{}],[],2619,-19269,-18626,-17600,2.0,-12.7,-12.3,-11.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2020,M04,April,130421,[{}],[],-20477,-21624,-21037,-20181,-13.6,-14.2,-13.9,-13.4
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2020,M03,March,150898,[{}],[],-1411,-894,-460,604,-0.9,-0.6,-0.3,0.4
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2020,M02,February,152309,[{}],[],264,643,1154,2242,0.2,0.4,0.8,1.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2020,M01,January,152045,[{}],[],253,587,1111,1983,0.2,0.4,0.7,1.3
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2019,M12,December,151792,[{}],[],126,434,948,1988,0.1,0.3,0.6,1.3
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2019,M11,November,151666,[{}],[],208,511,1026,2044,0.1,0.3,0.7,1.4
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2019,M10,October,151458,[{}],[],100,524,856,1933,0.1,0.3,0.6,1.3
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2019,M09,September,151358,[{}],[],203,514,1064,1997,0.1,0.3,0.7,1.3
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2019,M08,August,151155,[{}],[],221,515,1088,1881,0.1,0.3,0.7,1.3
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2019,M07,July,150934,[{}],[],90,332,872,1911,0.1,0.2,0.6,1.3
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2019,M06,June,150844,[{}],[],204,550,1040,1876,0.1,0.4,0.7,1.3
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2019,M05,May,150640,[{}],[],38,573,1018,1885,0.0,0.4,0.7,1.3
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2019,M04,April,150602,[{}],[],308,540,1077,2176,0.2,0.4,0.7,1.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2019,M03,March,150294,[{}],[],227,490,933,2014,0.2,0.3,0.6,1.4
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2019,M02,February,150067,[{}],[],5,445,793,2013,0.0,0.3,0.5,1.4
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2019,M01,January,150062,[{}],[],258,537,1039,2395,0.2,0.4,0.7,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2018,M12,December,149804,[{}],[],182,443,836,2283,0.1,0.3,0.6,1.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2018,M11,November,149622,[{}],[],97,348,867,2247,0.1,0.2,0.6,1.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2018,M10,October,149525,[{}],[],164,502,1099,2379,0.1,0.3,0.7,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2018,M09,September,149361,[{}],[],87,393,1081,2362,0.1,0.3,0.7,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2018,M08,August,149274,[{}],[],251,519,1220,2367,0.2,0.3,0.8,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2018,M07,July,149023,[{}],[],55,597,1356,2251,0.0,0.4,0.9,1.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2018,M06,June,148968,[{}],[],213,688,1447,2380,0.1,0.5,1.0,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2018,M05,May,148755,[{}],[],329,701,1380,2366,0.2,0.5,0.9,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2018,M04,April,148426,[{}],[],146,759,1280,2253,0.1,0.5,0.9,1.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2018,M03,March,148280,[{}],[],226,759,1281,2304,0.2,0.5,0.9,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2018,M02,February,148054,[{}],[],387,679,1147,2206,0.3,0.5,0.8,1.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2018,M01,January,147667,[{}],[],146,521,895,2031,0.1,0.4,0.6,1.4
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2017,M12,December,147521,[{}],[],146,522,933,2111,0.1,0.4,0.6,1.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2017,M11,November,147375,[{}],[],229,468,986,2187,0.2,0.3,0.7,1.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2017,M10,October,147146,[{}],[],147,374,973,2077,0.1,0.3,0.7,1.4
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2017,M09,September,146999,[{}],[],92,411,1023,2038,0.1,0.3,0.7,1.4
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2017,M08,August,146907,[{}],[],135,518,1059,2243,0.1,0.4,0.7,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2017,M07,July,146772,[{}],[],184,599,1136,2257,0.1,0.4,0.8,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2017,M06,June,146588,[{}],[],199,612,1178,2436,0.1,0.4,0.8,1.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2017,M05,May,146389,[{}],[],216,541,1201,2488,0.1,0.4,0.8,1.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2017,M04,April,146173,[{}],[],197,537,1104,2317,0.1,0.4,0.8,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2017,M03,March,145976,[{}],[],128,566,1015,2310,0.1,0.4,0.7,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2017,M02,February,145848,[{}],[],212,660,1184,2437,0.1,0.5,0.8,1.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2017,M01,January,145636,[{}],[],226,567,1121,2440,0.2,0.4,0.8,1.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2016,M12,December,145410,[{}],[],222,449,1258,2327,0.2,0.3,0.9,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2016,M11,November,145188,[{}],[],119,524,1287,2378,0.1,0.4,0.9,1.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2016,M10,October,145069,[{}],[],108,554,1213,2485,0.1,0.4,0.8,1.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2016,M09,September,144961,[{}],[],297,809,1295,2696,0.2,0.6,0.9,1.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2016,M08,August,144664,[{}],[],149,763,1253,2534,0.1,0.5,0.9,1.8
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2016,M07,July,144515,[{}],[],363,659,1319,2526,0.3,0.5,0.9,1.8
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2016,M06,June,144152,[{}],[],251,486,1069,2457,0.2,0.3,0.7,1.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2016,M05,May,143901,[{}],[],45,490,1091,2362,0.0,0.3,0.8,1.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2016,M04,April,143856,[{}],[],190,660,1272,2654,0.1,0.5,0.9,1.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2016,M03,March,143666,[{}],[],255,583,1401,2741,0.2,0.4,1.0,1.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2016,M02,February,143411,[{}],[],215,601,1281,2580,0.2,0.4,0.9,1.8
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2016,M01,January,143196,[{}],[],113,612,1207,2634,0.1,0.4,0.9,1.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2015,M12,December,143083,[{}],[],273,818,1388,2717,0.2,0.6,1.0,1.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2015,M11,November,142810,[{}],[],226,680,1271,2722,0.2,0.5,0.9,1.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2015,M10,October,142584,[{}],[],319,595,1382,2780,0.2,0.4,1.0,2.0
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2015,M09,September,142265,[{}],[],135,570,1340,2701,0.1,0.4,1.0,1.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2015,M08,August,142130,[{}],[],141,591,1299,2873,0.1,0.4,0.9,2.1
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2015,M07,July,141989,[{}],[],294,787,1427,2913,0.2,0.6,1.0,2.1
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2015,M06,June,141695,[{}],[],156,770,1329,2862,0.1,0.5,0.9,2.1
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2015,M05,May,141539,[{}],[],337,708,1451,3039,0.2,0.5,1.0,2.2
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2015,M04,April,141202,[{}],[],277,640,1398,2904,0.2,0.5,1.0,2.1
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2015,M03,March,140925,[{}],[],94,559,1361,2938,0.1,0.4,1.0,2.1
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2015,M02,February,140831,[{}],[],269,743,1574,3121,0.2,0.5,1.1,2.3
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2015,M01,January,140562,[{}],[],196,758,1486,3011,0.1,0.5,1.1,2.2
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2014,M12,December,140366,[{}],[],278,802,1533,2999,0.2,0.6,1.1,2.2
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2014,M11,November,140088,[{}],[],284,831,1588,2776,0.2,0.6,1.1,2.0
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2014,M10,October,139804,[{}],[],240,728,1506,2765,0.2,0.5,1.1,2.0
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2014,M09,September,139564,[{}],[],307,731,1577,2745,0.2,0.5,1.1,2.0
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2014,M08,August,139257,[{}],[],181,757,1547,2623,0.1,0.5,1.1,1.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2014,M07,July,139076,[{}],[],243,778,1525,2685,0.2,0.6,1.1,2.0
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2014,M06,June,138833,[{}],[],333,846,1466,2564,0.2,0.6,1.1,1.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2014,M05,May,138500,[{}],[],202,790,1188,2410,0.1,0.6,0.9,1.8
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2014,M04,April,138298,[{}],[],311,747,1259,2422,0.2,0.5,0.9,1.8
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2014,M03,March,137987,[{}],[],277,620,1168,2297,0.2,0.5,0.9,1.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2014,M02,February,137710,[{}],[],159,398,1076,2162,0.1,0.3,0.8,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2014,M01,January,137551,[{}],[],184,512,1160,2288,0.1,0.4,0.9,1.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2013,M12,December,137367,[{}],[],55,548,1098,2293,0.0,0.4,0.8,1.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2013,M11,November,137312,[{}],[],273,678,1222,2481,0.2,0.5,0.9,1.8
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2013,M10,October,137039,[{}],[],220,648,1163,2367,0.2,0.5,0.9,1.8
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2013,M09,September,136819,[{}],[],185,550,1129,2307,0.1,0.4,0.8,1.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2013,M08,August,136634,[{}],[],243,544,1086,2305,0.2,0.4,0.8,1.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2013,M07,July,136391,[{}],[],122,515,1128,2238,0.1,0.4,0.8,1.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2013,M06,June,136269,[{}],[],179,579,1195,2261,0.1,0.4,0.9,1.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2013,M05,May,136090,[{}],[],214,542,1259,2155,0.2,0.4,0.9,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2013,M04,April,135876,[{}],[],186,613,1204,2048,0.1,0.5,0.9,1.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2013,M03,March,135690,[{}],[],142,616,1178,1945,0.1,0.5,0.9,1.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2013,M02,February,135548,[{}],[],285,717,1219,2027,0.2,0.5,0.9,1.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2013,M01,January,135263,[{}],[],189,591,1110,2020,0.1,0.4,0.8,1.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2012,M12,December,135074,[{}],[],243,562,1066,2172,0.2,0.4,0.8,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2012,M11,November,134831,[{}],[],159,502,896,2130,0.1,0.4,0.7,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2012,M10,October,134672,[{}],[],160,519,844,2115,0.1,0.4,0.6,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2012,M09,September,134512,[{}],[],183,504,767,2166,0.1,0.4,0.6,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2012,M08,August,134329,[{}],[],176,394,808,2206,0.1,0.3,0.6,1.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2012,M07,July,134153,[{}],[],145,325,910,2161,0.1,0.2,0.7,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2012,M06,June,134008,[{}],[],73,263,1106,2072,0.1,0.2,0.8,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2012,M05,May,133935,[{}],[],107,414,1234,2231,0.1,0.3,0.9,1.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2012,M04,April,133828,[{}],[],83,585,1271,2224,0.1,0.4,1.0,1.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2012,M03,March,133745,[{}],[],224,843,1399,2467,0.2,0.6,1.1,1.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2012,M02,February,133521,[{}],[],278,820,1398,2467,0.2,0.6,1.1,1.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2012,M01,January,133243,[{}],[],341,686,1251,2404,0.3,0.5,0.9,1.8
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2011,M12,December,132902,[{}],[],201,556,966,2066,0.2,0.4,0.7,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2011,M11,November,132701,[{}],[],144,578,997,1947,0.1,0.4,0.8,1.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2011,M10,October,132557,[{}],[],211,565,953,1937,0.2,0.4,0.7,1.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2011,M09,September,132346,[{}],[],223,410,1068,2006,0.2,0.3,0.8,1.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2011,M08,August,132123,[{}],[],131,419,1069,1700,0.1,0.3,0.8,1.3
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2011,M07,July,131992,[{}],[],56,388,1153,1572,0.0,0.3,0.9,1.2
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2011,M06,June,131936,[{}],[],232,658,1100,1435,0.2,0.5,0.8,1.1
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2011,M05,May,131704,[{}],[],100,650,950,1059,0.1,0.5,0.7,0.8
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2011,M04,April,131604,[{}],[],326,765,984,1489,0.2,0.6,0.8,1.1
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2011,M03,March,131278,[{}],[],224,442,938,1413,0.2,0.3,0.7,1.1
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2011,M02,February,131054,[{}],[],215,300,631,1352,0.2,0.2,0.5,1.0
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2011,M01,January,130839,[{}],[],3,219,419,1044,0.0,0.2,0.3,0.8
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2010,M12,December,130836,[{}],[],82,496,335,1029,0.1,0.4,0.3,0.8
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2010,M11,November,130754,[{}],[],134,331,109,695,0.1,0.3,0.1,0.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2010,M10,October,130620,[{}],[],280,200,505,559,0.2,0.2,0.4,0.4
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2010,M09,September,130340,[{}],[],-83,-161,475,99,-0.1,-0.1,0.4,0.1
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2010,M08,August,130423,[{}],[],3,-222,721,-57,0.0,-0.2,0.6,0.0
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2010,M07,July,130420,[{}],[],-81,305,625,-241,-0.1,0.2,0.5,-0.2
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2010,M06,June,130501,[{}],[],-144,636,694,-502,-0.1,0.5,0.5,-0.4
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2010,M05,May,130645,[{}],[],530,943,586,-825,0.4,0.7,0.5,-0.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2010,M04,April,130115,[{}],[],250,320,54,-1710,0.2,0.2,0.0,-1.3
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2010,M03,March,129865,[{}],[],163,58,-376,-2629,0.1,0.0,-0.3,-2.0
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2010,M02,February,129702,[{}],[],-93,-357,-778,-3612,-0.1,-0.3,-0.6,-2.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2010,M01,January,129795,[{}],[],-12,-266,-866,-4271,0.0,-0.2,-0.7,-3.2
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2009,M12,December,129807,[{}],[],-252,-434,-1196,-5041,-0.2,-0.3,-0.9,-3.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2009,M11,November,130059,[{}],[],-2,-421,-1411,-5487,0.0,-0.3,-1.1,-4.0
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2009,M10,October,130061,[{}],[],-180,-600,-1764,-6233,-0.1,-0.5,-1.3,-4.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2009,M09,September,130241,[{}],[],-239,-762,-2253,-6518,-0.2,-0.6,-1.7,-4.8
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2009,M08,August,130480,[{}],[],-181,-990,-2834,-6729,-0.1,-0.8,-2.1,-4.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2009,M07,July,130661,[{}],[],-342,-1164,-3405,-6831,-0.3,-0.9,-2.5,-5.0
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2009,M06,June,131003,[{}],[],-467,-1491,-3845,-6686,-0.4,-1.1,-2.9,-4.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2009,M05,May,131470,[{}],[],-355,-1844,-4076,-6377,-0.3,-1.4,-3.0,-4.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2009,M04,April,131825,[{}],[],-669,-2241,-4469,-6212,-0.5,-1.7,-3.3,-4.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2009,M03,March,132494,[{}],[],-820,-2354,-4265,-5762,-0.6,-1.7,-3.1,-4.2
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2009,M02,February,133314,[{}],[],-752,-2232,-3895,-5012,-0.6,-1.6,-2.8,-3.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2009,M01,January,134066,[{}],[],-782,-2228,-3426,-4331,-0.6,-1.6,-2.5,-3.1
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2008,M12,December,134848,[{}],[],-698,-1911,-2841,-3548,-0.5,-1.4,-2.1,-2.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2008,M11,November,135546,[{}],[],-748,-1663,-2301,-2745,-0.5,-1.2,-1.7,-2.0
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2008,M10,October,136294,[{}],[],-465,-1198,-1743,-1881,-0.3,-0.9,-1.3,-1.4
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2008,M09,September,136759,[{}],[],-450,-930,-1497,-1344,-0.3,-0.7,-1.1,-1.0
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2008,M08,August,137209,[{}],[],-283,-638,-1117,-808,-0.2,-0.5,-0.8,-0.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2008,M07,July,137492,[{}],[],-197,-545,-905,-550,-0.1,-0.4,-0.7,-0.4
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2008,M06,June,137689,[{}],[],-158,-567,-707,-383,-0.1,-0.4,-0.5,-0.3
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2008,M05,May,137847,[{}],[],-190,-479,-444,-146,-0.1,-0.3,-0.3,-0.1
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2008,M04,April,138037,[{}],[],-219,-360,-138,195,-0.2,-0.3,-0.1,0.1
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2008,M03,March,138256,[{}],[],-70,-140,153,474,-0.1,-0.1,0.1,0.3
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2008,M02,February,138326,[{}],[],-71,35,309,770,-0.1,0.0,0.2,0.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2008,M01,January,138397,[{}],[],1,222,355,922,0.0,0.2,0.3,0.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2007,M12,December,138396,[{}],[],105,293,324,1145,0.1,0.2,0.2,0.8
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2007,M11,November,138291,[{}],[],116,274,298,1223,0.1,0.2,0.2,0.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2007,M10,October,138175,[{}],[],72,133,333,1326,0.1,0.1,0.2,1.0
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2007,M09,September,138103,[{}],[],86,31,321,1278,0.1,0.0,0.2,0.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2007,M08,August,138017,[{}],[],-25,24,461,1329,0.0,0.0,0.3,1.0
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2007,M07,July,138042,[{}],[],-30,200,567,1520,0.0,0.1,0.4,1.1
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2007,M06,June,138072,[{}],[],79,290,821,1744,0.1,0.2,0.6,1.3
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2007,M05,May,137993,[{}],[],151,437,925,1746,0.1,0.3,0.7,1.3
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2007,M04,April,137842,[{}],[],60,367,993,1632,0.0,0.3,0.7,1.2
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2007,M03,March,137782,[{}],[],226,531,957,1741,0.2,0.4,0.7,1.3
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2007,M02,February,137556,[{}],[],81,488,868,1824,0.1,0.4,0.6,1.3
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2007,M01,January,137475,[{}],[],224,626,953,2050,0.2,0.5,0.7,1.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2006,M12,December,137251,[{}],[],183,426,923,2091,0.1,0.3,0.7,1.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2006,M11,November,137068,[{}],[],219,380,821,2067,0.2,0.3,0.6,1.5
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2006,M10,October,136849,[{}],[],24,327,639,2203,0.0,0.2,0.5,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2006,M09,September,136825,[{}],[],137,497,784,2273,0.1,0.4,0.6,1.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2006,M08,August,136688,[{}],[],166,441,956,2193,0.1,0.3,0.7,1.6
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2006,M07,July,136522,[{}],[],194,312,1097,2225,0.1,0.2,0.8,1.7
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2006,M06,June,136328,[{}],[],81,287,1168,2389,0.1,0.2,0.9,1.8
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2006,M05,May,136247,[{}],[],37,515,1246,2560,0.0,0.4,0.9,1.9
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2006,M04,April,136210,[{}],[],169,785,1564,2695,0.1,0.6,1.2,2.0
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2006,M03,March,136041,[{}],[],309,881,1489,2887,0.2,0.7,1.1,2.2
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2006,M02,February,135732,[{}],[],307,731,1237,2699,0.2,0.5,0.9,2.0
+CES0000000001,"All employees, thousands, total nonfarm, seasonally adjusted",Seasonally Adjusted,"ALL EMPLOYEES, THOUSANDS",Total nonfarm,Total nonfarm,2006,M01,January,135425,[{}],[],265,779,1128,2646,0.2,0.6,0.8,2.0
