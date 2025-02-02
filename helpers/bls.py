@@ -2,6 +2,7 @@
 """API client implementations."""
 
 from datetime import datetime
+import warnings
 
 from .web import SessionManager
 
@@ -11,6 +12,10 @@ from .web import SessionManager
 # -- Exceptions ---------------------------------------------------------------------------
 class BLSError(Exception):
     """Raised when BLS API client runs into an error."""
+    pass
+
+class BLSWarning(Warning):
+    """Warning raised when BLS API client encounters non-critical issues."""
     pass
 
 # -- BLS ----------------------------------------------------------------------------------
@@ -158,7 +163,7 @@ class BLS:
 
         if self.api_key == '':
             catalog = calculations = annual_average = aspects = False
-            print("BLS registration key is required for optional parameters. Optional parameters will be set to false for the request.")
+            warnings.warn("Optional parameters disabled - API key required", BLSWarning)
         
         data = {
             "seriesid": series_list,
@@ -170,6 +175,8 @@ class BLS:
             "aspects": aspects,
             "registrationkey" : self.api_key
             }
+        
+        print(data)
 
         request_url = f"{self.api_url['base_url']}{self.api_url['endpoints']['timeseries'][0]}"
         
@@ -186,7 +193,6 @@ class BLS:
 
         try:
             json_data = response.json()
-
             bls_response = json_data['status']
 
             if bls_response == 'REQUEST_NOT_PROCESSED':
@@ -203,6 +209,11 @@ class BLS:
                 Includes the following validation
                 if 'M01' <= period <= 'M12':
                     x.add_row([seriesId,year,period,value,footnotes[0:-1]])
+                
+                2025.02.01 -- Hamza Amjad
+                If annualaverage is set to true, it is returned as M13 in the data set
+                So that needs to be handled appropriately. For now, not adding handling for this
+                I likely won't need annual averages for the work I'm doing at the moment
                 """
                 series_data = [
                     {
@@ -216,29 +227,30 @@ class BLS:
                                 "commerce_sector": series.get("catalog", {}).get("commerce_sector"),
                             } if catalog else {}
                         ),
-                        "year": data.get("year"),
-                        "period": data.get("period"), 
-                        "period": data.get("periodName"),
-                        "value": data.get("value"),
-                        "footnotes": data.get("footnotes") if data.get("footnotes") else "",
+                        "year": data["year"],
+                        "period": data["period"], 
+                        "period_name": data["periodName"],
+                        "value": data["value"],
+                        "footnotes": data["footnotes"] if "footnotes" in data else "",
                         **(
                             {
-                                "aspects" : series.get("data").get("aspects")
+                                "aspects": data.get("aspects", {})
                             } if aspects else {}
                         ),
                         **(
                             {
                                 f"{calc_type}_{period}": value
-                                for calc_type, periods in series.get("data", {}).get("calculations", {}).items()
+                                for calc_type, periods in data.get("calculations", {}).items()
                                 for period, value in periods.items()
                             } if calculations else {}
                         ),
                     }
                     for series in bls_series
-                    for data in series.get("data", {})
+                    for data in series.get("data", [])
                 ]
             return(series_data)
-        except:
+        except Exception as e:
+            print(f"Error occurred: {str(e)}")
             """
             2025.01.26 -- Hamza Amjad
             Note to self -- For any unhandled errors

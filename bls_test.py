@@ -15,12 +15,15 @@ bls_series_the_employment_situation = {
     'Total Nonfarm Employment - Seasonally Adjusted' : 'CES0000000001'
 }
 
-series = bls.get_series(list(bls_series_the_employment_situation.values()), all_optional_params=True, return_raw_response=True)
-# Convert response to JSON and write to file
-json_data = series.json()
-with open('bls_response.json', 'w') as f:
-    json.dump(json_data, f, indent=4)
+return_raw_response = True
 
+series = bls.get_series(list(bls_series_the_employment_situation.values()), all_optional_params=True, return_raw_response=return_raw_response)
 
-# series_df = pd.DataFrame.from_dict(series)
-# series_df.to_csv('bls_test_multiple_series.csv', index=False)
+if return_raw_response:
+    # Convert response to JSON and write to file
+    json_data = series.json()
+    with open('bls_response.json', 'w') as f:
+        json.dump(json_data, f, indent=4)
+else:
+    series_df = pd.DataFrame.from_dict(series)
+    series_df.to_csv('bls_test_multiple_series.csv', index=False, mode='w')
