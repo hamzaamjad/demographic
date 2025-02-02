@@ -51,7 +51,7 @@ class BLS:
             Registered Users can request up to 20 years per query
             Unregistered users may request up to 10 years per query
         """
-        self.start_year = str(int(datetime.strftime(datetime.now(),"%Y")) - 10 if api_key == '' else 20)
+        self.start_year = str(int(datetime.strftime(datetime.now(),"%Y")) - (9 if api_key == '' else 19))
         self.end_year = str(int(datetime.strftime(datetime.now(),"%Y")))
 
     def generate_laus(self, fips_state):
@@ -112,14 +112,30 @@ class BLS:
         
         return(response)
 
-    def get_series(self, series_list : list, start_year = None, end_year = None):
-        """Retrieve values from multiple series.
+    def get_series(
+            self, 
+            series_list : list, 
+            start_year = None, 
+            end_year = None,
+            catalog : bool = False,
+            calculations : bool = False,
+            annual_average: bool = False,
+            aspects : bool = False,
+            all_optional_params : bool = False,
+            return_raw_response : bool = False
+            ):
+        """Retrieve values from multiple series. Note that a BLS registration key is required to retreive optional parameters.
         
         Args:
-            series_list -- list of series IDs
-            start_year -- start year for data pull, defaults to ten years in the past
-            end_year -- end year for data pull, defaults to today's year
-            
+            series_list -- Required. List of series IDs
+            start_year -- Required. Start year for data pull, defaults to ten years in the past
+            end_year -- Required. End year for data pull, defaults to today's year
+            catalog -- Optional.
+            calculations -- Optional.
+            annual_average -- Optional.
+            aspects -- Optional.
+            all_optional_params -- Optional. Sets all other optional parameters to True
+            return_raw_response -- Optional. Returns the raw response without any handling.
         Raises:
             Not configured at this time.
         """
@@ -134,16 +150,24 @@ class BLS:
         if end_year is None:
             end_year = self.end_year
         else:
-            start_year = str(end_year)
+            end_year = str(end_year)
+
+        if all_optional_params:
+            if self.api_key != '': 
+                catalog = calculations = annual_average = aspects = True
+
+        if self.api_key == '':
+            catalog = calculations = annual_average = aspects = False
+            print("BLS registration key is required for optional parameters. Optional parameters will be set to false for the request.")
         
         data = {
             "seriesid": series_list,
             "startyear": start_year,
             "endyear": end_year,
-            "catalog": False,
-            "calculations" : False,
-            "annualaverage" : False,
-            "aspects": False,
+            "catalog": catalog,
+            "calculations" : calculations,
+            "annualaverage" : annual_average,
+            "aspects": aspects,
             "registrationkey" : self.api_key
             }
 
@@ -155,10 +179,14 @@ class BLS:
             headers=self.headers
         )
 
+        if return_raw_response:
+                return(response)
+
         series_data = ''
 
         try:
             json_data = response.json()
+
             bls_response = json_data['status']
 
             if bls_response == 'REQUEST_NOT_PROCESSED':
@@ -179,13 +207,35 @@ class BLS:
                 series_data = [
                     {
                         "series_id": series["seriesID"],
-                        "year": data["year"],
-                        "period": data["period"],
-                        "value": data["value"],
-                        "footnotes": data["footnotes"] if data["footnotes"] else "",
+                        **(
+                            {
+                                "series_title": series.get("catalog", {}).get("series_title"),
+                                "seasonality": series.get("catalog", {}).get("seasonality"),
+                                "measure_data_type": series.get("catalog", {}).get("measure_data_type"),
+                                "commerce_industry": series.get("catalog", {}).get("commerce_industry"),
+                                "commerce_sector": series.get("catalog", {}).get("commerce_sector"),
+                            } if catalog else {}
+                        ),
+                        "year": data.get("year"),
+                        "period": data.get("period"), 
+                        "period": data.get("periodName"),
+                        "value": data.get("value"),
+                        "footnotes": data.get("footnotes") if data.get("footnotes") else "",
+                        **(
+                            {
+                                "aspects" : series.get("data").get("aspects")
+                            } if aspects else {}
+                        ),
+                        **(
+                            {
+                                f"{calc_type}_{period}": value
+                                for calc_type, periods in series.get("data", {}).get("calculations", {}).items()
+                                for period, value in periods.items()
+                            } if calculations else {}
+                        ),
                     }
                     for series in bls_series
-                    for data in series["data"]
+                    for data in series.get("data", {})
                 ]
             return(series_data)
         except:
